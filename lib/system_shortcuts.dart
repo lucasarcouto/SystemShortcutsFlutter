@@ -13,7 +13,7 @@ import 'package:flutter/services.dart';
 /// landscape and portrait mode respectively.
 ///
 /// You can toggle wifi and bluetooth as well using wifi() and bluetooth()
-/// functions respectively
+/// functions respectively.
 class SystemShortcuts {
   static const MethodChannel _channel = const MethodChannel('system_shortcuts');
 
